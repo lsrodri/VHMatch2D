@@ -10,6 +10,7 @@ The paper is available in [Arxiv link](https://)
 ## Licenses and Citation
 
 - The [results.csv](results.csv) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), represented the experimental results from consented anonymous participants and was collected by Lucas Rodrigues.
+- The [data.csv](data.csv) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), combines the experimental results from consented anonymous participants and was collected by Lucas Rodrigues in the current projected surface experiment and the [previous VR study](https://github.com/lsrodri/VHMatch).
 - The [NASA-TLX.csv](NASA-TLX.csv) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), represented the workload self-assessment results from consented anonymous participants and was collected by Lucas Rodrigues.
 - The [MatchToSampleExperiment](MatchToSampleExperiment) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), represented the open-source Unity project that was created by Lucas Rodrigues and used for data collection.
 
