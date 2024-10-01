@@ -23,7 +23,7 @@ Copyright &copy; 2023. [Cluster of Excellence Matters of Activity](https://www.m
 Below are the BibTex entries to cite the paper and data set.
 
 ```
-@misc{siqueira_rodrigues_data_2023,
+@misc{siqueira_rodrigues_data_2d_2023,
 	title = {Data from "Assessing the Effects of Sensory Modality Conditions on Object Retention across Virtual Reality and Projected Surface Display Environments"},
 	url = {https://github.com/lsrodri/VHMatch2D},
 	publisher = {https://github.com/lsrodri/VHMatch2D},
