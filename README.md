@@ -9,8 +9,11 @@ The paper will be available in [ACM Digital Library](https://doi.org/10.1145/369
 
 ## Licenses and Citation
 
-- The [results.csv](results.csv) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), represented the experimental results from consented anonymous participants and was collected by Lucas Rodrigues.
-- The [data.csv](data.csv) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), combines the experimental results from consented anonymous participants and was collected by Lucas Rodrigues in the current projected surface experiment and the [previous VR study](https://github.com/lsrodri/VHMatch).
+- [results.csv](results.csv), available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), represented the experimental results from consented anonymous participants and was collected by Lucas Siqueira Rodrigues.
+- The [data.csv](data.csv) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), combines the experimental results from consented anonymous participants and was collected by Lucas Siqueira Rodrigues in the current projected surface experiment and the [previous VR study](https://github.com/lsrodri/VHMatch).
+- [logistic_regression_error_rates.py](logistic_regression_error_rates.py) Performs logistic regression on error rates on data.csv.
+- [mannwhitneyu_response_time.py](mannwhitneyu_response_time.py) performs Mann-Whitney U tests for response times on data.csv.
+- [data_analysis_interaction.py](data_analysis_interaction.py) examines interactions between the display environments and sensory modality conditions.
 <!-- - The [NASA-TLX.csv](NASA-TLX.csv) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), represented the workload self-assessment results from consented anonymous participants and was collected by Lucas Rodrigues. -->
 <!-- - The [MatchToSampleExperiment](MatchToSampleExperiment) itself, available in [Creative Commons Public Domain Dedication (CC-0)](https://creativecommons.org/share-your-work/public-domain/cc0/), represented the open-source Unity project that was created by Lucas Rodrigues and used for data collection. -->
 
