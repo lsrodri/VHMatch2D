@@ -5,7 +5,7 @@ This repository contains experimental data for the ISS '24 full paper "Assessing
 Haptic feedback reportedly enhances human interaction with 3D data, particularly improving the retention of mental representations of digital objects in immersive settings. However, the effectiveness of visuohaptic integration in promoting object retention across different display environments remains underexplored. Our study extends previous virtual reality research on visuohaptic integration to a projected surface display to assess whether earlier findings generalize to 2D environments. Participants performed a delayed match-to-sample task incorporating visual, haptic, and visuohaptic sensory feedback within a projected surface display environment. We compared error rates and response times across these sensory modalities and display environments. Our results reveal that visuohaptic integration significantly enhances object retention on projected surfaces, benefiting task performance across display environments. Our findings suggest that haptics can improve object retention without requiring fully immersive setups, offering insights for designing interactive systems that assist professionals who rely on precise object retention.
 
 ## Full Paper
-The paper will be available in [ACM Digital Library](https://doi.org/10.1145/3698137).
+The paper is available in the [ACM Digital Library](https://doi.org/10.1145/3698137).
 
 ## Licenses and Citation
 
