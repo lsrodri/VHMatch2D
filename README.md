@@ -19,11 +19,31 @@ The paper is available in the [ACM Digital Library](https://doi.org/10.1145/3698
 
 <!-- The contained "source code" (i.e., Python scripts and Jupyter Notebooks) of this work is made available under the terms of [GNU GPLv3](./LICENSE). They are fully available also in the [Open Science Framework](https://). -->
 
-Copyright &copy; 2023. [Cluster of Excellence Matters of Activity](https://www.matters-of-activity.de/). All rights reserved.
+Copyright &copy; 2024. [Cluster of Excellence Matters of Activity](https://www.matters-of-activity.de/). All rights reserved.
 
 ## Citing the Paper and Application
 
 Below are the BibTex entries to cite the paper and data set.
+
+```
+@article{10.1145/3698137,
+	author = {Siqueira Rodrigues, Lucas and Schmidt, Timo Torsten and Nyakatura, John and Zachow, Stefan and Israel, Johann Habakuk and Kosch, Thomas},
+	title = {Assessing the Effects of Sensory Modality Conditions on Object Retention across Virtual Reality and Projected Surface Display Environments},
+	year = {2024},
+	issue_date = {December 2024},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	volume = {8},
+	number = {ISS},
+	url = {https://doi.org/10.1145/3698137},
+	doi = {10.1145/3698137},
+	journal = {Proc. ACM Hum.-Comput. Interact.},
+	month = oct,
+	articleno = {537},
+	numpages = {28},
+	keywords = {Data Analysis, Data Exploration, Feedback, Haptics, Human-Computer Interaction, Memory Retention, Visuohaptic Integration}
+}
+```
 
 ```
 @misc{siqueira_rodrigues_data_2d_2023,
