@@ -54,3 +54,8 @@ Below are the BibTex entries to cite the paper and data set.
 	year = {2023},
 }
 ```
+
+## Acknowledgements
+The author acknowledges the support of the Cluster of Excellence »Matters of Activity. Image Space Material« funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy – EXC 2025 – 390648296.
+
+Copyright &copy; 2024. [Cluster of Excellence Matters of Activity](https://www.matters-of-activity.de/). All rights reserved.
